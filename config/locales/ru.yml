@@ -24,7 +24,7 @@ en:
   re_structuring_elements: 'Структурирование элементов'
   re_stakeholders: 'Пользовательские'
   re_more: 'больше'
-  re_drag_list_items_to_reorder_artifacts: 'Drag the list items to reorder the RE Artifacts. The configured order will be used everywhere in the RE Plugin'
+  re_drag_list_items_to_reorder_artifacts: 'Перетащите элементы  списка для упорядочивания   артифактов. Сконфигурированный порядок  будет использован во всем  модуле'
   re_artifact_order: 'Artifact Display Order'
   re_create: 'Create'
   re_create_new: 'Create a new '
