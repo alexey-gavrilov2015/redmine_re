@@ -160,27 +160,27 @@ en:
       re_artifact_properties: 'Артифакт'
     attributes:
       re_artifact_relationship:
-        sink: 'Sink Artifact'
-        source: 'Source Artifact'
-        source_id: 'Source Artifact'
-        relation_type: 'Relation type'
+        sink: 'Скрытый артифакт'
+        source: 'Исходный артифакт'
+        source_id: 'Исходный артифакт'
+        relation_type: 'Тип отношения'
       re_artifact_properties:
-        updaed_by: 'Updating User'
-        created_by: 'Creating User'
-        parent: 'Parent Artifact'
+        updaed_by: 'Измененный пользователем'
+        created_by: 'Созданный пользователем'
+        parent: 'Родительский артифакт'
 
-  re_parent: 'Parent'
-  re_children: 'Children'
-  re_set_parent: 'Set Parent Artifact'
-  re_creating_a_new: 'Creating a new'
+  re_parent: 'Родитель'
+  re_children: 'Наследники'
+  re_set_parent: 'Уснановить родительский артифакт'
+  re_creating_a_new: 'Создание нового'
 
   # re_artifact_properties_deletion
-  re_preparing_deletion: 'Preparing deletion'
+  re_preparing_deletion: 'Подготовка удаления'
   re_you_asked_for_deleting_the_following_artifact: 'You asked for deleting the following artifact'
-  re_what_will_be_deleted: 'If you delete this artifact, the relationships listed below will also be deleted.'
-  re_confirm_deletion_by_choosing: 'Please confirm the deletion by choosing an option below'
+  re_what_will_be_deleted: 'Если вы удалите указанный ниже артифакт, список отношений ниже будет также удален.'
+  re_confirm_deletion_by_choosing: 'Пожалуйста потдвердите удаление выбранной ниже опции'
 
-  re_delete_and_move_children: 'Delete artifact and move children'
+  re_delete_and_move_children: 'Delete artifact and move +'
   re_will_delete_artifact_and_move_children: 'Choosing this option will attach all children of this artifact (listed above) to the parent of this artifact (%{parent}). Afterwards this artifact (%{name}) and all its relationships to other artifacts will be deleted.'
   re_delete_recursively: 'Delete recursively'
   re_will_delete_artifact_and_all_children: 'Choosing this option will delete this artifact (%{name}) and the relationships (listed above). Additionally all its children and their children (listed above) as well as each childs relationships to other artifacts will be deleted. You may want to double check, before choosing this option.'
