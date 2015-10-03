@@ -442,17 +442,17 @@ en:
   ReScenario: 'Сценарий'
 
   # re_processword
-  re_processword: 'Processword'
-  ReProcessword: 'Processword'
-  re_processword_specific_attributes: 'Process word specific attributes'
-  re_processword_synonyms: 'Synonyms'
-  re_new_re_processword: 'New Processword'
+  re_processword: 'Шаблон'
+  ReProcessword: 'Шаблон'
+  re_processword_specific_attributes: 'Специфические атрибуты шаблона'
+  re_processword_synonyms: 'Синоним'
+  re_new_re_processword: 'Новый шаблон'
   re_processword_priority: 'Приоритет'
-  re_create_re_processword: 'Create a new Processword'
-  re_processword_saved: 'Processword successfully saved'
-  re_processword_deleted: 'The Processword %{name} has been deleted'
-  re_processword_not_deleted: 'The Processword %{name} could not be deleted'
-  re_processword_validation_error: 'Processword error: %{msg}'
+  re_create_re_processword: 'Создайте новый шаблон'
+  re_processword_saved: 'Шаблон успешно  сохранен'
+  re_processword_deleted: 'Имя шаблона %{name} было удалено'
+  re_processword_not_deleted: 'Шаблон  %{name} не может быть удален'
+  re_processword_validation_error: 'Ошибка шаблона: %{msg}'
 
   # re_rationale
   re_rationale: 'Причина'
