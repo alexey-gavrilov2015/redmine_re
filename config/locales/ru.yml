@@ -430,7 +430,7 @@ en:
   re_delete_use_case_expansion: 'Удалить'
   re_use_case_primary_actor: 'Первичный актер'
   re_use_case_secondary_actors: 'Вторичный актер(ы)'
-  re_actors: 'Actors'
+  re_actors: 'Актеры'
   re_use_case_attributes: 'Специфичные аттрибуты варианта использования'
   re_use_case_expansions: 'Расширение варианта использования'
   re_exception_expansion: 'Исключение '
@@ -467,7 +467,7 @@ en:
 
   # re_tree
   re_specification_overview: 'Обзор спецификации'
-  re_treefilter: 'Фильтер'
+  re_treefilter: 'Фильтр'
   re_create_in: 'создать артифакт в...'
   re_create_below: 'создать артифакт ниже...'
   re_create_relation: 'создать отношение ниже...'
@@ -504,7 +504,7 @@ en:
   artifactcount: 'Число артифактов'
   artifacts_wo_issues: 'Число артифактов не связанных ни с каким  заданием'
   issuecount: 'Число заданий'
-  issues_wo_artifacts: 'Число артифактов не связанных ни с каким  заданием''
+  issues_wo_artifacts: 'Число артифактов не связанных ни с каким  заданием'
   ticketend_overdue: 'Тикеты с просроченной конечной датой'
   ticketstart_overdue: 'Тикеты с просроченной начальной датой'
   artifact_issue_coverage: 'Покрытие заданиями артифактов:'
