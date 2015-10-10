@@ -515,84 +515,84 @@ en:
   progress: 'прогресс'
   requirement_progress: 'Прогресс реализации требований'
 
-  rating: 'Rating'
-  rating_average: 'Rating average'
-  re_artifact_rating_average: 'Rating average'
-  own_rating: 'Your rating'
+  rating: 'Рейтинг'
+  rating_average: 'Средний рейтиг'
+  re_artifact_rating_average: 'Средний рейтиг'
+  own_rating: 'Ваш рейтинг'
 
   #query and filter
-  label_any: 'any'
-  label_some: 'some'
-  label_is_me: 'is me'
-  label_is_not_me: 'is not me'
-  label_asc: 'ascending'
-  label_desc: 'descending'
-  re_enhanced_filter: 'Enhanced Filter'
-  re_filter: 'Filter'
-  re_select_all: 'Select all'
-  re_unselect_all: 'Unselect all'
-  re_filter_apply: 'Apply'
-  re_filter_save: 'Save'
-  re_filter_save_and_apply: 'Save & Apply'
-  re_filter_source_artifacts: 'Source'
-  re_filter_sink_artifacts: 'Sink'
-  re_filter_related_issues: 'Related Issues'
-  re_filter_order: 'Order'
+  label_any: 'любой'
+  label_some: 'некоторый'
+  label_is_me: 'является'
+  label_is_not_me: 'не является'
+  label_asc: 'возрастающий'
+  label_desc: 'убывающий'
+  re_enhanced_filter: 'Улучшенный фильтр'
+  re_filter: 'Фильтр'
+  re_select_all: 'Выбрать все'
+  re_unselect_all: 'Отменить выбор всех'
+  re_filter_apply: 'Применить'
+  re_filter_save: 'Сохранить'
+  re_filter_save_and_apply: 'Сохранить & Применить'
+  re_filter_source_artifacts: 'Исходный'
+  re_filter_sink_artifacts: 'Зависимый'
+  re_filter_related_issues: 'Связанные задания'
+  re_filter_order: 'Порядок'
 
-  re_query_settings: 'Settings'
-  re_query_name: 'Name'
+  re_query_settings: 'Настройки'
+  re_query_name: 'Имя'
 
   re_artifact_id: '#'
-  re_incoming_relationship_count: 'Incoming'
-  re_outgoing_relationship_count: 'Outgoing'
-  re_related_issues: 'Issues'
-  re_updated_at: 'Updated'
+  re_incoming_relationship_count: 'Входящие'
+  re_outgoing_relationship_count: 'Выходящие'
+  re_related_issues: 'Задания'
+  re_updated_at: 'Изменный'
 
-  re_traces_to: 'Traces to'
-  re_traces_from: 'Traces from'
+  re_traces_to: 'Трассировка к'
+  re_traces_from: 'Траасировка  от'
 
-  re_query_visibility_public: 'public'
-  re_query_visibility_me: 'just me'
-  re_query_visibility_roles: 'for'
+  re_query_visibility_public: 'публичный'
+  re_query_visibility_me: 'для меня'
+  re_query_visibility_roles: 'для'
 
-  re_please_choose: 'please choose'
-  re_primary_actor: 'Primary actor'
-  re_secondary_actor: 'Secondary actor(s)'
-  re_add_secondary_actor: 'Add secondary actor'
-  re_find_secondary_actor: 'Find secondary actor'
-  re_changed_by: 'Changed by'
+  re_please_choose: 'пожалуйста выберите'
+  re_primary_actor: 'Основное  действующее лицо'
+  re_secondary_actor: 'Вторичное действующее лицо(лицо)'
+  re_add_secondary_actor: 'Добавить действующее лицо'
+  re_find_secondary_actor: 'Найти вторичное действующее лицо'
+  re_changed_by: 'Измененный'
 
-  re_delete_use_case_step_expansion: 'Delete'
+  re_delete_use_case_step_expansion: 'Удалить'
 
-  re_starts_with: 'Start with'
-  re_ends_with: 'Ends with'
-  re_contains: 'Contains'
-  re_equals: 'Equals'
-  re_lesser_than: 'Lesser than'
-  re_greater_than: 'Grater than'
-  re_none_specific: 'None specific'
-  re_apply_filter: 'Apply filter'
+  re_starts_with: 'Начать  с'
+  re_ends_with: 'Закончить на'
+  re_contains: 'Выйдите'
+  re_equals: 'Равняется'
+  re_lesser_than: 'Меньше чем'
+  re_greater_than: 'Больше чем'
+  re_none_specific: 'неспецифический'
+  re_apply_filter: 'Применить фильтер'
 
-  re_artifact_attributes: 'Artifact attributes'
+  re_artifact_attributes: 'Атрибуты артифакта'
 
-  label_attachments: 'Attachments'
+  label_attachments: 'Приложения'
 
-  re_relation_saved: 'Relation saved successfully'
-  re_relation_saved_error: 'Relation was not saved successfully'
+  re_relation_saved: 'Отношение успешно сохранено'
+  re_relation_saved_error: 'Отношение не было успешно сохранено'
 
-  re_artifact_related_content: 'Related content'
+  re_artifact_related_content: 'Связанное содержимое'
 
   #mail
-  re_text_artifact_added: "Artifact %{id} has been added by %{author}."
-  re_text_artifact_updated: "Artifact %{id} has been updated by %{author}."
-  re_text_artifact_updated_new_comment: "New comment added by %{author}:"
+  re_text_artifact_added: "Артифакт %{id} был добавлен %{author}."
+  re_text_artifact_updated: "Артифакт %{id} был изменен %{author}."
+  re_text_artifact_updated_new_comment: "Новый комментарий добавлен %{author}:"
 
-  connect_issue: "Connect issue"
+  connect_issue: "Связанное задание"
 
   #export
-  re_export: 'Export'
+  re_export: 'Экспорт'
 
-  re_edit_default_description: 'Edit default description'
+  re_edit_default_description: 'Редактировать описание по умолчанию'
 
   #default artifact descriptions
   re_goal_default_description: '<p>You may want to use goals as high level requirements or to structure your requirements. There are also approaches using goals for the whole RE, especially for understanding the requirements.</p> <p>Goals are a good starting point to record the intentions of your stakeholders. Goals do not have to be fully achieveable nor measureable. Goals can be regarded as a first sketch of the requirements. You can use goals to discover conflicts between the intentions of your stakeholders and solve this conflicts. This may helps you to establish an overall agreement between your stakeholders. You should take care about that a goal refines a vision statements. [Alexander 2009, S. 51]</p>'  
